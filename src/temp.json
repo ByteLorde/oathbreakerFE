@@ -1,0 +1,12 @@
+{
+  Unbreakable: 1,
+  display: {
+    Name: '[{\"text\":\"Golden Housing Shovel\",\"italic\":false,\"color\":\"gold\"}]',
+    Lore: [
+      '[{\"text\":\"Allows you to claim plots of land in the\",\"italic\":false,\"color\":\"dark_purple\"}]',
+      '[{\"text\":\"Wilderness\",\"italic\":false,\"color\":\"red\"}]',
+      '[{\"text\":\"\",\"italic\":false}]',
+      '[{\"text\":\"Check out the Discord for more information on claims and how to use them,\",\"italic\":true, \"color\":\"dark_gray\"}]'
+    ]
+  }
+}
